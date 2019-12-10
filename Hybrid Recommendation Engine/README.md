@@ -5,7 +5,7 @@
 
 As an avid music enthusiast, I have always been interested in understanding the mechanisms that drive music recommendations across the most popular streaming platforms. Spotify is the most popular of said platforms and leverages a three-pronged approach.
 
- - **User Data**: This is by and far the most important data when it comes to delivering a recommendation. Our taste and genre profiles, recent browsing and listening history, and social relationships are the most influential data source
+ - **User Data**: Historical interaction data, social relationships, taste profiles take precedent when calibrating recommendations
  - **Audio Data**: With Spotify's acquisition of Echo Nest, the company absorbed a MIR team (Music Information Retrieval) dedicated to building proprietary audio features like "Danciness" and "Speechiness." These funny sounding engineered features are the result of extensive domain knowledge and exploration by their DS team, and are also utilized in the process of delivering recommendations
  - **"Cultural" Data**: The last source of information is what is described as the "cultural vector"-- this is a representation of what the Blogosphere/Social media is saying about a given track or artist.
  
