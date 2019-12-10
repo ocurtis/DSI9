@@ -35,6 +35,7 @@ A summary of general watchouts and pitfalls that can be encountered is also outl
 ## Summary of Findings
  - **Track features (lyrics and audio) are insufficient for generating consistent recommendations.** Recommender systems should not rely solely on lyric/review/audio data exclusively.
   - **Collaborative Filtering / User Data should be prioritized before anything.** The lack of granularity seen with our collaborative filter system was solely the result of data availability. This approach produced the most consistent results without the need for over-engineering features.
+  
  -**Track features, cultural data can produce novel - and sometimes serendipitous -- results at the expense of relevance.** Despite struggles with maintaining relevance, in subjective testing of recommender output, it was determined that album review data and track features produced more novel and serendipitous recs compared to our collaborative filter
  -**High dimensionality can impact your results**. When constructing a recommendation engine, it's important to remember that introduction of related features will increase the importance of that feature group. For example, if you recommender has 20 lyrical features and 10 audio features, your distance metrics will be more impacted by lyrical data on the whole. This is something to keep in mind when it comes to interpretability.
 
