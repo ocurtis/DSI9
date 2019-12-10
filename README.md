@@ -1,8 +1,6 @@
 # DS1 9 Projects
 
 
-[Image]('https://course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/3423/s200/general-assembly-reviews-logo.jpg')
-
 Welcome to my Data Science Immersive (Cohort 9) folder. Please find a selection of projects I worked on over the coourse of this 3 months program.
 
 In addition to a selection of assigned labs, these are the highlights of major projects:
