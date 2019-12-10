@@ -4,9 +4,9 @@ Welcome to my Data Science Immersive (Cohort 9) folder. Please find a selection 
 
 In addition to a selection of assigned labs, these are the highlights of major projects:
 - #### Hybrid Music Recommendation Engine
- - Sourcing own data (211 hours of audio, 25K tracks, 17K album reviews, 151K user artist follows) to build music recommender
- - NLP, audio feature engineering, hybrid recommendation engine construction all components of final product
- - Additional exploration of: Selenium for scraping, best practices for fuzzy matching, neural networks for dataset imputation
+  - Sourcing own data (211 hours of audio, 25K tracks, 17K album reviews, 151K user artist follows) to build music recommender
+  - NLP, audio feature engineering, hybrid recommendation engine construction all components of final product
+  - Additional exploration of: Selenium for scraping, best practices for fuzzy matching, neural networks for dataset imputation
 
 - #### Ames Housing Price Prediction 
   - Using a variety of modeling technique to minimize RMSE for Ames, IA house prices as part of internal Kaggle competition
