@@ -13,11 +13,11 @@ In addition to a selection of assigned labs, these are the highlights of major p
   - Finished in top 10 for both seen and unseen data
   
  - #### Reddit Humor Classification
-  - Leveraging NLP techniques to classify whether or not a post is from r/Jokes v r/DadJokes
-  - Programmatically building a validating 84 models to find optimal combination of data, model, and hyperparameters
+   - Leveraging NLP techniques to classify whether or not a post is from r/Jokes v r/DadJokes
+   - Programmatically building a validating 84 models to find optimal combination of data, model, and hyperparameters
   
  - #### Disaster Relief Tool/Dash Concepting
-  - Utitlizing FEMA data to deep dive into socioeconomic and disaster relief datasets
-  - Construction of a corresponding Tableau dashboard to house model output and build prototype views for real life client
+   - Utitlizing FEMA data to deep dive into socioeconomic and disaster relief datasets
+   - Construction of a corresponding Tableau dashboard to house model output and build prototype views for real life client
   
 
