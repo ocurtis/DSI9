@@ -1,7 +1,7 @@
-# DS1 9 Projects
+# DSI 9 Projects
 
 
-Overview of DS19 major projects:
+Overview of DSI-9 major projects:
 
 - #### Hybrid Music Recommendation Engine (Capstone Project)
   - Sourcing own data (211 hours of audio, 25K tracks, 17K album reviews, 151K user artist follows) to build music recommender
