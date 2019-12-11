@@ -5,7 +5,7 @@ Overview of DSI-9 major projects:
 
 - #### Hybrid Music Recommendation Engine (Capstone Project)
   - Sourcing own data (211 hours of audio, 25K tracks, 17K album reviews, 151K user artist follows) to build music recommender
-  - *Concepts: NLP (Topic Modeling/LDA), Audio Engineering (via Librosa), Recommenders (Collaborative-Filtering, Content-Based), Scraping (BS4, Selenium)*
+  - *Concepts: NLP (Topic Modeling/LDA), Audio Engineering (via Librosa), Recommenders (Collaborative-Filtering, Content-Based), Scraping (BS4, Selenium), Data Merging (Fuzzy Matching, Imputation Strategies)*
   - Additional exploration of: Selenium for scraping, best practices for fuzzy matching, neural networks for dataset imputation
 
 - #### Ames Housing Price Prediction 
