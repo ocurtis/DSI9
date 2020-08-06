@@ -1,4 +1,4 @@
-# NLP, mp3s for Dope Emcee R-E-Cs: Building a Rap Recommendation Engine From Scratch
+# Hybrid Music Recommendation Engine
 
 
 ## Project Summary
